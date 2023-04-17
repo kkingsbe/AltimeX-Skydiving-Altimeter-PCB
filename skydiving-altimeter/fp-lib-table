@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "ftsn_lcd_pads")(type "KiCad")(uri "C:/Users/kking/Documents/KiCad/6.0/Downloaded Symbols and Footprints/3.17in FTSN LCD/ftsn_lcd_pads.pretty")(options "")(descr ""))
+  (lib (name "BMP581")(type "KiCad")(uri "C:/Users/kking/Documents/KiCad/6.0/Downloaded Symbols and Footprints/BMP581/BMP581.pretty")(options "")(descr ""))
+  (lib (name "ASPI-0630LR-100M-T15 10uH inductor")(type "KiCad")(uri "C:/Users/kking/Documents/KiCad/6.0/Downloaded Symbols and Footprints/ASPI-0630LR-100M-T15 10uH inductor")(options "")(descr ""))
+)
