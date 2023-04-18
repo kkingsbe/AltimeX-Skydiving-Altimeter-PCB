@@ -541,9 +541,6 @@
     (path "/878c02f1-6e0f-4063-b2fd-d88c4b65f3c1/6b11f5d6-8010-4cf6-a8fb-81c1bbc2a4a3"
       (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
     )
-    (path "/878c02f1-6e0f-4063-b2fd-d88c4b65f3c1/f83027bb-070f-4557-83ad-0674e9289727"
-      (reference "#PWR0111") (unit 1) (value "GND") (footprint "")
-    )
     (path "/878c02f1-6e0f-4063-b2fd-d88c4b65f3c1/1400b28e-0ae9-49ae-b232-acc149de5fa7"
       (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
     )
@@ -660,12 +657,6 @@
     )
     (path "/878c02f1-6e0f-4063-b2fd-d88c4b65f3c1/2b732744-10ac-44ec-b1a2-abcb394ddff0"
       (reference "R2") (unit 1) (value "4.7k") (footprint "Resistor_SMD:R_0402_1005Metric")
-    )
-    (path "/878c02f1-6e0f-4063-b2fd-d88c4b65f3c1/c2350791-8fec-4be3-8b55-c137e0d4720d"
-      (reference "R3") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric")
-    )
-    (path "/878c02f1-6e0f-4063-b2fd-d88c4b65f3c1/0bd9d32e-ab2e-4f48-a496-832b07d6c45c"
-      (reference "R4") (unit 1) (value "200") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
     (path "/878c02f1-6e0f-4063-b2fd-d88c4b65f3c1/59955fd7-b909-4fcc-88a1-542d5988a5f5"
       (reference "U1") (unit 1) (value "STM32F103C8Tx") (footprint "Package_QFP:LQFP-48_7x7mm_P0.5mm")
