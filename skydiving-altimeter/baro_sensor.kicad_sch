@@ -295,6 +295,10 @@
     (stroke (width 0) (type default))
     (uuid b0f7757b-f1fa-43f6-b72e-4c97763c6e06)
   )
+  (wire (pts (xy 120.65 90.17) (xy 121.92 90.17))
+    (stroke (width 0) (type default))
+    (uuid c7466b1a-b010-451d-b9c4-499a8ca99064)
+  )
 
   (text "Barometric pressure sensor" (at 120.65 78.74 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -325,8 +329,8 @@
     (property "Datasheet" "~" (at 110.49 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6e5078f9-29e1-440e-8abd-677ec884751a))
-    (pin "2" (uuid a4dc8343-208d-4143-814a-87a50eac39c6))
+    (pin "1" (uuid 509af16a-9aef-4bc5-a2d1-0fc57904312e))
+    (pin "2" (uuid d1492b26-1e90-443e-952a-12c7b346f511))
     (instances
       (project "skydiving-altimeter"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/25087f50-b4bd-4ba8-9294-4cb0f29516ca"
@@ -357,6 +361,31 @@
       (project "skydiving-altimeter"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/25087f50-b4bd-4ba8-9294-4cb0f29516ca"
           (reference "C8") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:+3V3") (at 120.65 90.17 90) (mirror x) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 1dffcb97-cf54-4bf2-b275-55fde56abfb1)
+    (property "Reference" "#PWR02" (at 124.46 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+3V3" (at 116.84 90.1699 90)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (at 120.65 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 120.65 90.17 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid a6a3e199-d263-42a2-94ba-93d352aba2ab))
+    (instances
+      (project "skydiving-altimeter"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/25087f50-b4bd-4ba8-9294-4cb0f29516ca"
+          (reference "#PWR02") (unit 1)
         )
       )
     )
@@ -553,7 +582,7 @@
     (property "Datasheet" "" (at 106.68 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 126bd91a-5213-473d-96e5-818d88ddabd9))
+    (pin "1" (uuid d8b38911-cd84-4576-b28a-9a353348a2c4))
     (instances
       (project "skydiving-altimeter"
         (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/25087f50-b4bd-4ba8-9294-4cb0f29516ca"
