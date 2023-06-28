@@ -1,4 +1,7 @@
 (sym_lib_table
+  (version 7)
   (lib (name "WS2813B")(type "KiCad")(uri "C:/Users/kking/Documents/KiCad/6.0/Downloaded Symbols and Footprints/WS2813B/WS2813B.kicad_sym")(options "")(descr ""))
   (lib (name "lcd")(type "KiCad")(uri "C:/Users/kking/Documents/KiCad/6.0/Downloaded Symbols and Footprints/3.17in FTSN LCD/lcd.kicad_sym")(options "")(descr ""))
+  (lib (name "LPS22HBTR")(type "KiCad")(uri "C:/Users/kking/OneDrive/Documents/Open-Source-Skydiving-Altimeter-PCB/External Symbols & Footprints/LPS22HBTR Baro Sensor/LPS22HBTR.kicad_sym")(options "")(descr ""))
+  (lib (name "10118193-0001LF")(type "KiCad")(uri "C:/Users/kking/OneDrive/Documents/Open-Source-Skydiving-Altimeter-PCB/External Symbols & Footprints/Micro USB Port/10118193-0001LF.kicad_sym")(options "")(descr ""))
 )

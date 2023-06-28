@@ -1435,7 +1435,7 @@
     (property "Value" "10118193-0001LF" (at 227.33 139.065 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "AMPHENOL_10118193-0001LF" (at 220.98 137.16 0)
+    (property "Footprint" "Micro USB Port:AMPHENOL_10118193-0001LF" (at 220.98 137.16 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (at 220.98 137.16 0)
