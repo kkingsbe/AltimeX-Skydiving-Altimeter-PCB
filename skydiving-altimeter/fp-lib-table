@@ -5,4 +5,5 @@
   (lib (name "ASPI-0630LR-100M-T15 10uH inductor")(type "KiCad")(uri "C:/Users/kking/Documents/KiCad/6.0/Downloaded Symbols and Footprints/ASPI-0630LR-100M-T15 10uH inductor")(options "")(descr ""))
   (lib (name "External Symbols & Footprints")(type "KiCad")(uri "C:/Users/kking/OneDrive/Documents/Open-Source-Skydiving-Altimeter-PCB/External Symbols & Footprints")(options "")(descr ""))
   (lib (name "Micro USB Port")(type "KiCad")(uri "C:/Users/kking/OneDrive/Documents/Open-Source-Skydiving-Altimeter-PCB/External Symbols & Footprints/Micro USB Port")(options "")(descr ""))
+  (lib (name "JGC42-8828A_CSTNE10M0G550000R0")(type "KiCad")(uri "C:/Users/kking/OneDrive/Documents/Open-Source-Skydiving-Altimeter-PCB/External Symbols & Footprints/JGC42-8828A_CSTNE10M0G550000R0 Oscillator/JGC42-8828A_CSTNE10M0G550000R0.pretty")(options "")(descr ""))
 )
