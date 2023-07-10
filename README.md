@@ -1,4 +1,4 @@
-# Open-Source-Skydiving-Altimeter-PCB
+# AltimeX
 
 This repo contains the PCB files for an open-source ColorAlti analog that I created, which can be made for about $30. Sadly, the programmer cable costs anywhere from $60-$120, however if you need yours programmed you can reach out to me and we can work something out (I have one).
 
